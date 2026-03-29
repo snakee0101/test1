@@ -2,7 +2,7 @@
 
 function example($a)
 {
-    $b = $a; //important optimization
+    $b = $a * 5; //important optimization
 
-    return ($b + 4)*8;
+    return ($b + 4)*80;
 }
