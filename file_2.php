@@ -2,5 +2,7 @@
 
 function example($a)
 {
-    return $a + 4;
+    $b = $a; //important optimization
+
+    return $b + 4;
 }
