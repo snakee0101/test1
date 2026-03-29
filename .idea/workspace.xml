@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fbaf93f-7a82-49f7-851c-e1b8678f2981" name="Changes" comment="second commit" />
+    <list default="true" id="6fbaf93f-7a82-49f7-851c-e1b8678f2981" name="Changes" comment="second commit">
+      <change beforePath="$PROJECT_DIR$/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +34,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "382ae4e8",
+    "git-widget-placeholder": "new__branch",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
