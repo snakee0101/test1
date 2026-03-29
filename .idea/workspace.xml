@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fbaf93f-7a82-49f7-851c-e1b8678f2981" name="Changes" comment="second commit">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+>>>>>>> new_branch
       <change beforePath="$PROJECT_DIR$/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +45,11 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "main",
+=======
+    "git-widget-placeholder": "new__branch",
+>>>>>>> new_branch
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
