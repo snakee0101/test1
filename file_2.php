@@ -11,3 +11,8 @@ function new_function()
 {
     return "new function added";
 }
+
+function another_function()
+{
+    return 100;
+}
