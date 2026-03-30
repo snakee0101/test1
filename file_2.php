@@ -6,3 +6,8 @@ function example($a)
 
     return ($b + 4)*80;
 }
+
+function new_function()
+{
+    return "new function added";
+}
