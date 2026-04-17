@@ -12,6 +12,11 @@ function new_function()
     return "new function added";
 }
 
+function bugfix()
+{
+    return "bugfix";
+}
+
 function another_function()
 {
     return 100;
